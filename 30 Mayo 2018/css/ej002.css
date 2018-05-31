@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+#contenedor{
+    width: 300px;
+    box-shadow: 2px 2px 5px black;
+    height: 300px;
+    margin: 50px auto;
+}
+
+.caja{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
