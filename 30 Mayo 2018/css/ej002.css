@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    padding: 0;
 }
 
 #contenedor{
@@ -7,6 +8,7 @@
     box-shadow: 2px 2px 5px black;
     height: 300px;
     margin: 50px auto;
+    cursor:crosshair;
 }
 
 .caja{
@@ -14,4 +16,11 @@
     width: 100px;
     height: 100px;
     float: left;
+    font-size: 80px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+
 }
