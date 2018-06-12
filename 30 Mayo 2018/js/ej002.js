@@ -27,7 +27,7 @@ $('document').ready(function(){
         }// fct anónima 
     );//caja click
 
-
+// Cambiamos imagenes 
 
     $('#img1').on('mouseover',function(){
 
